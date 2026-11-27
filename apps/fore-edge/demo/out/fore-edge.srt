@@ -1,0 +1,103 @@
+1
+00:00:03,202 --> 00:00:05,770
+A winter reading circle gathers around one
+
+2
+00:00:05,770 --> 00:00:08,522
+thick hardback, seen from its gilt fore-edge.
+
+3
+00:00:09,506 --> 00:00:13,560
+Each silk ribbon marks where a reader sits in the book,
+
+4
+00:00:13,560 --> 00:00:17,466
+tinted by whether they are ahead, on pace, or behind.
+
+5
+00:00:18,281 --> 00:00:21,490
+Pages past the fog line fall into shade, showing
+
+6
+00:00:21,490 --> 00:00:25,101
+the spoiler-safe horizon of the slowest active reader.
+
+7
+00:00:25,908 --> 00:00:29,548
+Switching to the Pace lens overlays today’s expected
+
+8
+00:00:29,548 --> 00:00:32,488
+page band and each reader’s catch-up time.
+
+9
+00:00:33,294 --> 00:00:36,125
+The Notes lens highlights open margin slips and
+
+10
+00:00:36,125 --> 00:00:38,654
+sealed flaps for chapters not yet reached.
+
+11
+00:00:39,467 --> 00:00:42,465
+The Today panel focuses the next meeting flag
+
+12
+00:00:42,465 --> 00:00:45,197
+and shows how many effective days remain.
+
+13
+00:00:46,006 --> 00:00:52,386
+Toggling View As switches between the convenor overview and a reader’s spoiler-locked perspective.
+
+14
+00:00:53,187 --> 00:00:55,748
+In Bookmark, a reader logs their current page
+
+15
+00:00:55,748 --> 00:00:58,537
+and reading minutes to slide their ribbon deeper.
+
+16
+00:00:59,348 --> 00:01:02,790
+Progress is saved immediately, and backwards entries are
+
+17
+00:01:02,790 --> 00:01:05,618
+refused unless they are a same-day correction.
+
+18
+00:01:06,427 --> 00:01:09,155
+In Margin, notes from later chapters stay sealed
+
+19
+00:01:09,155 --> 00:01:11,827
+until your bookmark passes their starting page.
+
+20
+00:01:12,629 --> 00:01:15,906
+Reading Plan gives the convenor effective-day pacing
+
+21
+00:01:15,906 --> 00:01:19,119
+with half-weight weekends and a readiness forecast.
+
+22
+00:01:19,923 --> 00:01:22,952
+Meeting Pack compiles printable discussion questions and
+
+23
+00:01:22,952 --> 00:01:24,683
+shows who will be ready on time.
+
+24
+00:01:25,491 --> 00:01:27,556
+Every reader moves at their own pace,
+
+25
+00:01:27,556 --> 00:01:30,291
+while the circle stays together without spoilers.
+
+26
+00:01:31,093 --> 00:01:34,273
+Fore-Edge — built on Microsoft Fabric Apps.
